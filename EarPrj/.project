@@ -3,7 +3,7 @@
 	<name>EarPrj</name>
 	<comment></comment>
 	<projects>
-		<project>Webprj</project>
+		<project>WebPrj</project>
 		<project>EjbPrj</project>
 	</projects>
 	<buildSpec>

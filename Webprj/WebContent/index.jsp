@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-access servlet of web project by:  http://localhost:8080/Webprj/servlet
+access servlet of web project by:  http://localhost:8080/WebPrj/servlet
 </body>
 </html>

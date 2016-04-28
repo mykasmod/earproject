@@ -3,8 +3,8 @@
   <display-name>EarPrj</display-name>
   <module>
     <web>
-      <web-uri>Webprj.war</web-uri>
-      <context-root>Webprj</context-root>
+      <web-uri>WebPrj.war</web-uri>
+      <context-root>WebPrj</context-root>
     </web>
   </module>
   <module>
